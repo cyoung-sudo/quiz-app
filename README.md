@@ -14,4 +14,4 @@ A basic quiz app.
 
 ### Extras:
 - [x] Mobile support
-- [x] Chrome Lighthouse perfect score
+- [ ] Chrome Lighthouse perfect score
