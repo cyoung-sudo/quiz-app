@@ -1,13 +1,13 @@
 # Quiz App
 A basic quiz app.
 
-## Preview:
+## Preview
 ![Preview](/images/preview.png)
 
-## Website Link:
+## Website Link
 [Github Page Link](https://cyoung-sudo.github.io/quiz-app/)
 
-## Programming Languages:
+## Programming Languages
 * HTML
 * CSS
 * Javascript
