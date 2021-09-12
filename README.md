@@ -12,6 +12,5 @@ A basic quiz app.
 * CSS
 * Javascript
 
-### Extras:
-- [x] Mobile support
-- [ ] Chrome Lighthouse perfect score
+## Support
+- [x] Mobile not supported
