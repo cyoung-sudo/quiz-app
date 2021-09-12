@@ -13,4 +13,4 @@ A basic quiz app.
 * Javascript
 
 ## Support
-- [x] Mobile not supported
+- [x] Mobile supported
